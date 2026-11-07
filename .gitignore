@@ -1,0 +1,28 @@
+
+# Environment variables and API keys
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Kaggle credentials
+kaggle.json
+
+# Raw datasets
+data/*.csv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
